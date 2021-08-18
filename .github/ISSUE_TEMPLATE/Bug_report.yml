@@ -20,10 +20,11 @@ body:
       render: shell
     validations:
       required: true
-  - type: input
+  - type: textarea
     attributes:
       label: Error message
       description: 'If any, paste the *full* error message inside a code block as above (starting from line Traceback)'
+      render: python
     validations:
       required: true
   - type: input
