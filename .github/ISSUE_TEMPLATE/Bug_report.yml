@@ -13,7 +13,7 @@ body:
   - type: markdown
     attributes:
         value: You can view the final output by clicking the preview button above.
-  - type: input
+  - type: textarea
     attributes:
       label: Reproducing Code Example
       description: 'If you place your code between the triple backticks below, it will be rendered as a code block.'
