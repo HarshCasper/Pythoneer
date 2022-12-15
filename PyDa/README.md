@@ -1,0 +1,1 @@
+PyDa is a python digital assisstant that hold the capability to answer questions from maths to history . This feature is possible because of the Wolfram Alpha API and the inclusion of wikipedia module. PyDa also has voice recognition feature.
